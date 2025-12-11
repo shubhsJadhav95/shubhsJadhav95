@@ -1,6 +1,6 @@
 <h4 align="left">Hi 👋! My name is Shubham Jadhav and I'm a .passionate Java Developer from India<br><br>🎓 I’m a final-year Computer Engineering student at the University of Mumbai.<br>🔭 Currently working on Java Full Stack Development and exploring DevOps.<br>🌱 Actively learning LLMs and RAG to build intelligent applications.<br>👯 Open to collaborating on Spring Boot and LLM-based projects.<br>📫 Reach me at: shubhsjadhav01@gmail.com</h4>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhsJadhav95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
