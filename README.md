@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Shubham Jadhav and I'm a .passionate Java Developer from India<br><br>🎓 I’m a final-year Computer Engineering student at the University of Mumbai.<br>🔭 Currently working on Java Full Stack Development and exploring DevOps.<br>🌱 Actively learning LLMs and RAG to build intelligent applications.<br>👯 Open to collaborating on Spring Boot and LLM-based projects.<br>📫 Reach me at: shubhsjadhav01@gmail.com</h4>
+<h4 align="left">Hi 👋! My name is Shubham Jadhav and I'm a passionate Java Developer from India<br><br>🎓 I’m a final-year Computer Engineering student at the University of Mumbai.<br>🔭 Currently working on Java Full Stack Development and exploring DevOps.<br>🌱 Actively learning LLMs and RAG to build intelligent applications.<br>👯 Open to collaborating on Spring Boot and LLM-based projects.<br>📫 Reach me at: shubhsjadhav01@gmail.com</h4>
 
 
 
