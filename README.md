@@ -149,7 +149,7 @@ The snake's eating up my contributions🐍.
 
 <h2>Connect To Me</h2>
 <div align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://leetcode.com/shubhsJadhav95/" target="_blank">
+  <a href="https://leetcode.com/u/XrmMxvFa7h/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=F79F1B" height="35" alt="LeetCode logo" />
   </a>
 
