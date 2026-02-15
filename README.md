@@ -110,18 +110,11 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
 
-#### AI/ML & Data Science
-![Anaconda](https://img.shields.io/badge/-Anaconda-000?style=for-the-badge&logo=anaconda)
-![NumPy](https://img.shields.io/badge/-NumPy-000?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?style=for-the-badge&logo=scikit-learn)
 
 
 #### Tools & IDEs
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visual-studio-code)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000?style=for-the-badge&logo=pycharm)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000?style=for-the-badge&logo=intellij-idea)
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-000?style=for-the-badge&logo=insomnia)
