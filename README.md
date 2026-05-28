@@ -6,7 +6,7 @@
 
 <p align="center">
 🎓 Final-year Computer Engineering student at University of Mumbai <br>
-🔭 Currently working on <b>Java Full Stack Development & DevOps</b> <br>
+🔭 Currently working on <b>Java Development & DevOps</b> <br>
 📫 Reach me at <b>shubhsjadhav01@gmail.com</b> <br>
 ⚡ I love solving problems and building impactful applications.
 </p>
