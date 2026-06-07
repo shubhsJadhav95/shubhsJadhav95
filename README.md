@@ -40,13 +40,22 @@
 
 ### 🧰 Tools & DevOps
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000?style=for-the-badge&logo=intellij-idea)
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-000?style=for-the-badge&logo=insomnia)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes)
 ![Helm](https://img.shields.io/badge/-Helm-000?style=for-the-badge&logo=helm)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=for-the-badge&logo=jenkins)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-000?style=for-the-badge&logo=argo)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?style=for-the-badge&logo=githubactions)
+![Terraform](https://img.shields.io/badge/-Terraform-000?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/-Ansible-000?style=for-the-badge&logo=ansible)
+
+### ☁️ Cloud
+
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=microsoftazure)
 
 ---
 
